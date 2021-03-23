@@ -1,4 +1,4 @@
-/* Name: Sabrina Pinera
+/* 
 Date: 10/1/2018
 Section: 5
 Assignment: 3
@@ -6,8 +6,7 @@ Due Date: 10/1/2018
 About this project: Krusty Krabs Order. Have user place their order and then calculate
 a receipt
 Assumptions: The program will execute as intended.
-
-All work below was performed by Sabrina Pinera */
+*/
 #include <iostream>
 #include <iomanip>
 
